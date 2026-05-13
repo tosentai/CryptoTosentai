@@ -179,11 +179,6 @@ flutter clean && flutter pub get
 // lib/core/constants/api_constants.dart
 static const String apiKey = 'CG-yourOwnKeyHere';
 ```
-
-### Інші посилання
-
-Публічні URL у [app_links.dart](lib/core/constants/app_links.dart) — заміни на свої перед релізом (Source code, Terms, Privacy).
-
 ---
 
 ## Обмеження
